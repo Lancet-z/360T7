@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: cmiot_ax18_plus
+name: 启动编译AX3600
 
 on:
   repository_dispatch:
