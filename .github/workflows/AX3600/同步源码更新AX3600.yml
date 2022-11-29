@@ -9,7 +9,7 @@
 # Description: Source code update checker
 #
 
-name: 自动更新
+name: 自动更新AX3600
 
 env:
   REPO_URL: https://github.com/robimarko/openwrt
