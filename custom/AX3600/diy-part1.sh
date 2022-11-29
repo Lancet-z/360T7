@@ -15,5 +15,3 @@
 
 #openclash
 echo 'src-git-full openclash https://github.com/vernesong/OpenClash.git' >>feeds.conf.default
-#argon主题
-echo 'src-git-full jerryk https://github.com/jerrykuku/openwrt-package' >> feeds.conf.default
