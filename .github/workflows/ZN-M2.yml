@@ -13,7 +13,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: 开始编译ZN-M2
+name: 启动编译ZN-M2
 
 on:
   repository_dispatch:
