@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: redmi_ax6_nowifi
+name: Xiaomi_AX3600_nowifi
 
 on:
   repository_dispatch:
