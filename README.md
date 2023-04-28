@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-     欢迎来到适用于IPQ807x||IPQ60xx||MT798X 设备的 Openwrt 编译仓库
+     欢迎来到适用于IPQ807x||IPQ60xx|设备的 Openwrt 编译仓库
   </h1>
 <a href="/LICENSE">
     <img src="https://img.shields.io/github/license/sdf8057/cloudbuild?style=flat&a=1" alt="">
@@ -26,21 +26,6 @@
 6.释放部分保留内存，可用内存增加50m。  
 7.本仓库编译出来的固件默认不集成无线功能。  
 
-## 集成插件列表
-luci-app-ssr-plus  
-luci-app-openclash  
-luci-app-ddns  
-luci-app-msd_lite  
-luci-app-wol  
-luci-app-upnp  
-luci-app-uhttpd  
-luci-app-cpufreq  
-luci-app-ipsec-vpnd  
-luci-app-openvpn-server  
-luci-app-zerotier  
 
-## 固件预览
-![image](https://github.com/sdf8057/cloudbuild/blob/main/pic/overview.png)
 
-## 微信打赏
-![image](https://github.com/sdf8057/cloudbuild/blob/main/pic/reward_qrcode.png)
+
