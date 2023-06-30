@@ -18,3 +18,6 @@
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 #openclash
 echo 'src-git openclash https://github.com/vernesong/OpenClash.git' >>feeds.conf.default
+#加主题
+cd openwrt/package
+git clone https://github.com/jerrykuku/luci-theme-argon.git
